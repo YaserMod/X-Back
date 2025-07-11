@@ -3,7 +3,7 @@
   "versions": [
     {
       "id": "pubg",
-      "enabled": false,
+      "enabled": true,
       "asset_name": "ic_pubg.png",
       "title": "PUBG | GL / KR / TW / VNG",
       "description": "Version 3.9.0 • Safe",
@@ -13,7 +13,7 @@
     },
     {
       "id": "bgmi",
-      "enabled": false,
+      "enabled": true,
       "asset_name": "ic_bgmi.png",
       "title": "BGMI India",
       "description": "3.9 is not available yet",
