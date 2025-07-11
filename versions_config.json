@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "versions": [
     {
       "id": "pubg",
@@ -16,7 +16,7 @@
       "enabled": false,
       "asset_name": "ic_bgmi.png",
       "title": "BGMI India",
-      "description": "Version 3.9.0 • Safe",
+      "description": "3.9 is not available yet",
       "package_names": "com.pubg.imobile",
       "so_filename": "libnative-bgmi.so",
       "download_url": "https://firebasestorage.googleapis.com/v0/b/xelahot-update.appspot.com/o/libnative-bgmi.so?alt=media"
