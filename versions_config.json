@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "versions": [
+    {
+      "id": "pubg",
+      "enabled": true,
+      "asset_name": "ic_pubg.png",
+      "title": "PUBG | GL / KR / TW / VNG",
+      "description": "Version 3.8.0 • Safe",
+      "package_names": "com.tencent.ig|com.pubg.krmobile|com.rekoo.pubgm|com.vng.pubgmobile",
+      "so_filename": "libnative-pubg.so",
+      "download_url": "https://firebasestorage.googleapis.com/v0/b/xelahot-update.appspot.com/o/libnative-gl.so?alt=media"
+    },
+    {
+      "id": "bgmi",
+      "enabled": true,
+      "asset_name": "ic_bgmi.png",
+      "title": "BGMI India",
+      "description": "Version 3.8.0 • Safe",
+      "package_names": "com.pubg.imobile",
+      "so_filename": "libnative-bgmi.so",
+      "download_url": "https://firebasestorage.googleapis.com/v0/b/xelahot-update.appspot.com/o/libnative-bgmi.so?alt=media"
+    }
+  ]
+}
