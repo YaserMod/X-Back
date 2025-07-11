@@ -13,7 +13,7 @@
     },
     {
       "id": "bgmi",
-      "enabled": true,
+      "enabled": false,
       "asset_name": "ic_bgmi.png",
       "title": "BGMI India",
       "description": "3.9 is not available yet",
