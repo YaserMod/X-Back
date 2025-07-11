@@ -3,7 +3,7 @@
   "versions": [
     {
       "id": "pubg",
-      "enabled": true,
+      "enabled": false,
       "asset_name": "ic_pubg.png",
       "title": "PUBG | GL / KR / TW / VNG",
       "description": "Version 3.9.0 • Safe",
