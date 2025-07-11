@@ -13,7 +13,7 @@
     },
     {
       "id": "bgmi",
-      "enabled": true,
+      "enabled": false,
       "asset_name": "ic_bgmi.png",
       "title": "BGMI India",
       "description": "Version 3.9.0 • Safe",
